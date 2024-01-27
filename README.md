@@ -1,4 +1,4 @@
-# Ideas for projects:
+# 💡 Ideas for projects:
 
 <!-- https://en.wikipedia.org/wiki/English_alphabet#
 To know where to insert:
@@ -6,7 +6,7 @@ A a B b C c D d E e F f G g H h I i J j K k L l M m N n O o P p Q q R r S s T t 
 2 spaces - line break
 -->
 
-## Web
+## 🕸️ Web
 - About one page
 - AI assistant
 - Blog
@@ -16,7 +16,7 @@ A a B b C c D d E e F f G g H h I i J j K k L l M m N n O o P p Q q R r S s T t 
 - Templates
 - Weather app
 
-## Tools:
+## ⚒️ Tools:
 - Binary clock
 - Calendar
 - Characters converter
@@ -30,7 +30,7 @@ A a B b C c D d E e F f G g H h I i J j K k L l M m N n O o P p Q q R r S s T t 
 - To-do list
 - Typing Test
 
-## Games:
+## 🎮 Games:
 - Guess the Number
 - Dice game
 - Jigsaw puzzles
@@ -40,14 +40,14 @@ A a B b C c D d E e F f G g H h I i J j K k L l M m N n O o P p Q q R r S s T t 
 - Snake
 - Tic-Tac-Toe
 
-## Other:
+## ❖ Other:
 - Browser extension
 - Poll
 - Random quote
 - Tests
 - Quote of the day
 
-## Other 2:
+## ❖ Other 2:
 - Challenges
 - CSS art (draw anything)
 - Tasks from tutorial or lesson
