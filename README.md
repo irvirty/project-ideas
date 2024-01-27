@@ -70,7 +70,8 @@ A a B b C c D d E e F f G g H h I i J j K k L l M m N n O o P p Q q R r S s T t 
 
 
 ---
-## Catalogs (applications, extensions, services ...):
+## Catalogs (app, extensions ...):
+  
 [🔗 https://addons.mozilla.org/firefox/extensions/](https://addons.mozilla.org/firefox/extensions/)  
 [🔗 https://chromewebstore.google.com/category/extensions](https://chromewebstore.google.com/category/extensions)  
 [🔗 https://play.google.com/](https://play.google.com/)  
