@@ -7,9 +7,12 @@ A a B b C c D d E e F f G g H h I i J j K k L l M m N n O o P p Q q R r S s T t 
 -->
 
 ## Web
+- AI assistant
 - Blog
 - Personal website
 - Photo gallery
+- Templates
+- Weather app
 
 ## Tools:
 - Binary clock
@@ -17,6 +20,7 @@ A a B b C c D d E e F f G g H h I i J j K k L l M m N n O o P p Q q R r S s T t 
 - Сharacter counter
 - Calculator
 - Clock
+- Drawing app
 - Password generator
 - Stopwatch
 - Timer
@@ -27,16 +31,14 @@ A a B b C c D d E e F f G g H h I i J j K k L l M m N n O o P p Q q R r S s T t 
 - Guess the Number
 - Jigsaw puzzles
 - Memory game
+- Quiz
 - Rock paper scissors
 - Snake
 - Tic-Tac-Toe
 
 ## Other:
 - CSS art
-- Drawing app
-- Templates
-- Quiz
-- Weather app
+
 
 
 <!-- https://en.wikipedia.org/wiki/English_alphabet#
