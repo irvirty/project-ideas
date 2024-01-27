@@ -8,16 +8,15 @@ A a B b C c D d E e F f G g H h I i J j K k L l M m N n O o P p Q q R r S s T t 
 
 ## 🕸️ Web
 - About one page
-- AI assistant
 - Blog
 - Personal website
 - Photo gallery
 - Portfolio
 - SaaS landing page
 - Templates
-- Weather app
 
-## ⚒️ App:
+## ⚒️ App, tools, services:
+- AI assistant
 - Binary clock
 - Calendar
 - Characters converter
@@ -27,6 +26,8 @@ A a B b C c D d E e F f G g H h I i J j K k L l M m N n O o P p Q q R r S s T t 
 - Color picker
 - Drawing app
 - Password generator
+- Poll
+- Random quote
 - Stopwatch
 - Timer
 - To-do list
@@ -38,16 +39,15 @@ A a B b C c D d E e F f G g H h I i J j K k L l M m N n O o P p Q q R r S s T t 
 - Jigsaw puzzles
 - Memory game
 - Quiz
+- Quote of the day
 - Rock paper scissors
 - Snake
 - Tic-Tac-Toe
+- Weather app
 
 ## ⭐ Other:
 - Browser extension
-- Poll
-- Random quote
-- Tests
-- Quote of the day
+
 
 ## ⭐ Other 2:
 - Challenges
