@@ -70,12 +70,12 @@ A a B b C c D d E e F f G g H h I i J j K k L l M m N n O o P p Q q R r S s T t 
 
 ---
 ## 🛍️ Catalogs (app, extensions ...):
-[🔗 Codepen.io](https://codepen.io/)  
-[🔗 Addons.mozilla.org/firefox/extensions](https://addons.mozilla.org/firefox/extensions/)  
-[🔗 Chromewebstore.google.com/category/extensions](https://chromewebstore.google.com/category/extensions)  
-[🔗 Play.google.com](https://play.google.com/)  
-[🔗 Alternativeto.net/browse/all/](https://alternativeto.net/browse/all/)  
-[🔗 Producthunt.com/categories](https://www.producthunt.com/categories)  
+[🔗 CodePen](https://codepen.io/)  
+[🔗 Add-ons for Firefox](https://addons.mozilla.org/)  
+[🔗 Chrome Web Store](https://chromewebstore.google.com/)  
+[🔗 Android Apps on Google Play](https://play.google.com/)  
+[🔗 AlternativeTo](https://alternativeto.net/browse/all/)  
+[🔗 Product Hunt](https://www.producthunt.com/categories)  
 
 
 
