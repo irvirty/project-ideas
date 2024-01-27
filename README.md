@@ -12,14 +12,6 @@ A a B b C c D d E e F f G g H h I i J j K k L l M m N n O o P p Q q R r S s T t 
 - Personal website
 - Photo Gallery
 
----
-## Games:
-- Guess the Number
-- Memory game
-- Snake
-- Tic-Tac-Toe  
-
----
 ## Tools:
 - Binary clock
 - Characters converter
@@ -31,6 +23,14 @@ A a B b C c D d E e F f G g H h I i J j K k L l M m N n O o P p Q q R r S s T t 
 - Timer
 - To-do list
 - Typing Test
+
+## Games:
+- Guess the Number
+- Jigsaw Puzzles
+- Memory game
+- Rock paper scissors
+- Snake
+- Tic-Tac-Toe
 
 ## Other:
 - Drawing app
