@@ -40,14 +40,14 @@ A a B b C c D d E e F f G g H h I i J j K k L l M m N n O o P p Q q R r S s T t 
 - Snake
 - Tic-Tac-Toe
 
-## ❖ Other:
+## ✪ Other:
 - Browser extension
 - Poll
 - Random quote
 - Tests
 - Quote of the day
 
-## ❖ Other 2:
+## ✪ Other 2:
 - Challenges
 - CSS art (draw anything)
 - Tasks from tutorial or lesson
@@ -60,16 +60,16 @@ A a B b C c D d E e F f G g H h I i J j K k L l M m N n O o P p Q q R r S s T t 
 -->
 ---
 ---
-# For inspiration:
+# 💡 For inspiration:
 ---
-## Examples in the documentations:
+## 📄 Examples in the documentations:
 [🔗 https://developer.mozilla.org/](https://developer.mozilla.org/en-US/)  
 [🔗 https://www.w3schools.com/](https://www.w3schools.com/)  
 [🔗 https://web.dev/](https://web.dev/)  
 
 
 ---
-## Catalogs (app, extensions ...):
+## 🛍️ Catalogs (app, extensions ...):
   
 [🔗 https://addons.mozilla.org/firefox/extensions/](https://addons.mozilla.org/firefox/extensions/)  
 [🔗 https://chromewebstore.google.com/category/extensions](https://chromewebstore.google.com/category/extensions)  
@@ -80,6 +80,6 @@ A a B b C c D d E e F f G g H h I i J j K k L l M m N n O o P p Q q R r S s T t 
 
 
 ---
-## Tags:
+## 🏷️ Tags:
 [#ideas](https://github.com/topics/ideas)
 [#project-ideas](https://github.com/topics/project-ideas)
