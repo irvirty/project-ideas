@@ -27,6 +27,7 @@ A a B b C c D d E e F f G g H h I i J j K k L l M m N n O o P p Q q R r S s T t 
 - Drawing app
 - Password generator
 - Poll
+- Quote of the day
 - Random quote
 - Stopwatch
 - Timer
@@ -40,7 +41,6 @@ A a B b C c D d E e F f G g H h I i J j K k L l M m N n O o P p Q q R r S s T t 
 - Jigsaw puzzles
 - Memory game
 - Quiz
-- Quote of the day
 - Rock paper scissors
 - Snake
 - Tic-Tac-Toe
