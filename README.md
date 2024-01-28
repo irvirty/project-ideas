@@ -1,4 +1,4 @@
-# 💡 Ideas for projects:
+# 💡 Ideas for project:
 
 <!-- https://en.wikipedia.org/wiki/English_alphabet#
 To know where to insert:
