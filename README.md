@@ -1,3 +1,5 @@
+<!-- Project ideas v.1.0.0 -->
+
 # 💡 Project ideas:
 
 <!-- https://en.wikipedia.org/wiki/English_alphabet#
@@ -6,7 +8,7 @@ A a B b C c D d E e F f G g H h I i J j K k L l M m N n O o P p Q q R r S s T t 
 2 spaces - line break
 -->
 
-## 🕸️ Web
+## 🕸️ Web:
 - About one page
 - Blog
 - Personal website
@@ -64,17 +66,17 @@ A a B b C c D d E e F f G g H h I i J j K k L l M m N n O o P p Q q R r S s T t 
 # 🍃 For inspiration:
 
 ## 📄 Examples in the documentations:
-[🔗 MDN Web Docs](https://developer.mozilla.org/en-US/)  
-[🔗 W3Schools](https://www.w3schools.com/)  
-[🔗 Web.dev](https://web.dev/)  
+🔗 [MDN Web Docs](https://developer.mozilla.org/en-US/)  
+🔗 [W3Schools](https://www.w3schools.com/)  
+🔗 [Web.dev](https://web.dev/)  
 
-## 🛍️ Catalogs (app, extensions, ...):
-[🔗 CodePen](https://codepen.io/)  
-[🔗 Add-ons for Firefox](https://addons.mozilla.org/)  
-[🔗 Chrome Web Store](https://chromewebstore.google.com/)  
-[🔗 Android Apps on Google Play](https://play.google.com/)  
-[🔗 AlternativeTo](https://alternativeto.net/browse/all/)  
-[🔗 Product Hunt](https://www.producthunt.com/categories)  
+## 🛍️ Catalogs, store, etc:
+🔗 [CodePen](https://codepen.io/)  
+🔗 [Add-ons for Firefox](https://addons.mozilla.org/)  
+🔗 [Chrome Web Store](https://chromewebstore.google.com/)  
+🔗 [Android Apps on Google Play](https://play.google.com/)  
+🔗 [AlternativeTo](https://alternativeto.net/browse/all/)  
+🔗 [Product Hunt](https://www.producthunt.com/categories)  
 
 
 
