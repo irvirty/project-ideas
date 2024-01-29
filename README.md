@@ -1,11 +1,10 @@
-<!-- Project ideas v.1.0.0 -->
+<!-- Project ideas v.1.0.1 -->
 
 # 💡 Project ideas:
 
 <!-- https://en.wikipedia.org/wiki/English_alphabet#
 To know where to insert:
 A a B b C c D d E e F f G g H h I i J j K k L l M m N n O o P p Q q R r S s T t U u V v W w X x Y y Z z
-2 spaces - line break
 -->
 
 ## 🕸️ Web:
@@ -29,6 +28,7 @@ A a B b C c D d E e F f G g H h I i J j K k L l M m N n O o P p Q q R r S s T t 
 - Password generator
 - Poll
 - Quote of the day
+- Random background
 - Random quote
 - Stopwatch
 - Tests
