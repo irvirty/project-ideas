@@ -1,4 +1,4 @@
-<!-- Project ideas v.1.0.3 -->
+<!-- Project ideas v.1.0.4 -->
 
 # 💡 Project ideas:
 
@@ -82,6 +82,7 @@ A a B b C c D d E e F f G g H h I i J j K k L l M m N n O o P p Q q R r S s T t 
 
 ---
 ## 🏷️ Tags:
+GitHub explore: 
 [#100DaysOfCode](https://github.com/topics/100daysofcode?s=updated),
 [#JavaScript](https://github.com/topics/javascript?s=updated),
 [#CSS](https://github.com/topics/css?s=updated),
