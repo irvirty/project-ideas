@@ -1,4 +1,4 @@
-<!-- Project ideas v.1.0.2 -->
+<!-- Project ideas v.1.0.3 -->
 
 # 💡 Project ideas:
 
@@ -82,12 +82,15 @@ A a B b C c D d E e F f G g H h I i J j K k L l M m N n O o P p Q q R r S s T t 
 
 ---
 ## 🏷️ Tags:
-[#100DaysOfCode](https://github.com/100DaysOfCode/ideas),
-[#JavaScript](https://github.com/JavaScript/ideas),
-[#CSS](https://github.com/CSS/ideas),
-[#HTML](https://github.com/HTML/ideas),
-[#Project](https://github.com/Projet/ideas),
-[#App](https://github.com/App/ideas),
+[#100DaysOfCode](https://github.com/topics/100daysofcode?s=updated),
+[#JavaScript](https://github.com/topics/javascript?s=updated),
+[#CSS](https://github.com/topics/css?s=updated),
+[#HTML](https://github.com/topics/html?s=updated),
+[#Project](https://github.com/topics/project?s=updated),
+[#Projects](https://github.com/topics/projects?s=updated),
+[#App](https://github.com/topics/app?s=updated),
+[#Software](https://github.com/topics/software?s=updated),
+[#Extension](https://github.com/topics/extension?s=updated),
 
-[#ideas](https://github.com/topics/ideas),
-[#project-ideas](https://github.com/topics/project-ideas),
+[#Ideas](https://github.com/topics/ideas?s=updated),
+[#Project Ideas](https://github.com/topics/project-ideas?s=updated),
