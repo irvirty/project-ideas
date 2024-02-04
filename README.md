@@ -1,4 +1,4 @@
-<!-- Project ideas v.1.2.0 -->
+<!-- Project ideas v.1.2.1 -->
 
 # 💡 Project ideas:
 
@@ -17,7 +17,8 @@ A a B b C c D d E e F f G g H h I i J j K k L l M m N n O o P p Q q R r S s T t 
 - Сharacter counter
 - Clock
 - Color picker
-- CSS art
+- CSS Art
+- CSS buttons
 - Drawing app
 - Password generator
 - Personal website
