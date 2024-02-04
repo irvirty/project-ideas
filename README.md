@@ -1,4 +1,4 @@
-<!-- Project ideas v.1.1.0 -->
+<!-- Project ideas v.1.1.1 -->
 
 # 💡 Project ideas:
 
@@ -7,17 +7,9 @@ To know where to insert:
 A a B b C c D d E e F f G g H h I i J j K k L l M m N n O o P p Q q R r S s T t U u V v W w X x Y y Z z
 -->
 
-## 🕸️ Web:
 - About one page
-- Blog
-- Personal website
-- Photo gallery
-- Portfolio
-- SaaS landing page
-- Templates
-
-## ⚒️ App, tools, services:
 - Binary clock
+- Blog
 - Calendar
 - Characters converter
 - Сharacter counter
@@ -26,11 +18,16 @@ A a B b C c D d E e F f G g H h I i J j K k L l M m N n O o P p Q q R r S s T t 
 - Color picker
 - Drawing app
 - Password generator
+- Personal website
+- Photo gallery
 - Poll
+- Portfolio
 - Quote of the day
 - Random background
 - Random quote
+- SaaS landing page
 - Stopwatch
+- Templates
 - Tests
 - Timer
 - To-do list
