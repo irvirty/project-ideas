@@ -10,12 +10,14 @@ A a B b C c D d E e F f G g H h I i J j K k L l M m N n O o P p Q q R r S s T t 
 - About one page
 - Binary clock
 - Blog
+- Browser extension
+- Calculator
 - Calendar
 - Characters converter
 - Сharacter counter
-- Calculator
 - Clock
 - Color picker
+- CSS art
 - Drawing app
 - Password generator
 - Personal website
@@ -45,12 +47,10 @@ A a B b C c D d E e F f G g H h I i J j K k L l M m N n O o P p Q q R r S s T t 
 - Tic-Tac-Toe
 
 
-## ⭐ Other:
-- Browser extension
-- Challenges
-- CSS art (draw anything)
-- Tasks from tutorial or lesson
+## ⭐ Tasks from:
 
+- Challenges
+- Tutorial or lesson
 
 
 <!-- https://en.wikipedia.org/wiki/English_alphabet#
