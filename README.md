@@ -51,8 +51,12 @@ A a B b C c D d E e F f G g H h I i J j K k L l M m N n O o P p Q q R r S s T t 
 - Snake
 - Tic-Tac-Toe
 
+<!-- https://en.wikipedia.org/wiki/English_alphabet#
+For sort:
+A a B b C c D d E e F f G g H h I i J j K k L l M m N n O o P p Q q R r S s T t U u V v W w X x Y y Z z
+-->
 
-## ⭐ Other ideas:
+## 🍃 Other (examples, inspiration):
 
 ### Challenges:
 🏷️ [#Challenge](https://github.com/topics/challenge), [#100daysofcode](https://github.com/topics/100daysofcode), 
@@ -63,21 +67,13 @@ A a B b C c D d E e F f G g H h I i J j K k L l M m N n O o P p Q q R r S s T t 
 
 <!--### Tutorial or lesson:-->
 
-### 📄 Examples in the documentations:
+### 📄 Documentations:
 🔗 [MDN Web Docs](https://developer.mozilla.org/en-US/)  
 🔗 [W3Schools](https://www.w3schools.com/)  
 🔗 [Web.dev](https://web.dev/)  
-
-
-<!-- https://en.wikipedia.org/wiki/English_alphabet#
-For sort:
-A a B b C c D d E e F f G g H h I i J j K k L l M m N n O o P p Q q R r S s T t U u V v W w X x Y y Z z
--->
   
 ---
   
-## 🍃 For inspiration:
-
 ### 🛍️ Catalogs, store, etc:
 
 🔗 [CodePen](https://codepen.io/)  
