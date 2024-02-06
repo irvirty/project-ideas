@@ -1,6 +1,6 @@
 <!-- Project ideas v.1.2.1 -->
 
-# Project ideas:
+# 💡 Project ideas:
 
 <!-- https://en.wikipedia.org/wiki/English_alphabet#
 For sort:
