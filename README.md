@@ -55,6 +55,7 @@ A a B b C c D d E e F f G g H h I i J j K k L l M m N n O o P p Q q R r S s T t 
 ## ⭐ Other ideas:
 
 ### Challenges:
+🔗 [#Coding Challenges](https://github.com/topics/codingchallenges)  
 🔗 [CodePen Challenges](https://codepen.io/challenges)  
 🔗 [iCodeThis](https://icodethis.com/)  
 
@@ -76,6 +77,7 @@ A a B b C c D d E e F f G g H h I i J j K k L l M m N n O o P p Q q R r S s T t 
 ## 🍃 For inspiration:
 
 ### 🛍️ Catalogs, store, etc:
+
 🔗 [CodePen](https://codepen.io/)  
 🔗 [Add-ons for Firefox](https://addons.mozilla.org/)  
 🔗 [Chrome Web Store](https://chromewebstore.google.com/)  
