@@ -1,4 +1,4 @@
-<!-- Project ideas v.1.2.1 -->
+<!-- Project ideas v.1.3.0 -->
 
 # 💡 Project ideas:
 
