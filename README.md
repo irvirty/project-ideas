@@ -3,50 +3,50 @@
 # 💡 Project ideas:
 
 
-- About one page
-- Binary clock
-- Blog
-- Browser extension
-- Calculator
-- Calendar
-- Characters converter
-- Сharacter counter
-- Clock
-- Color picker
-- CSS Art
-- CSS buttons
-- Drawing app
-- Password generator
-- Personal website (homepage)
-- Photo gallery
-- Poll
-- Portfolio
-- Quote of the day
-- Random background
-- Random color generator
-- Random quote
-- SaaS landing page
-- Stopwatch
-- Template
-- Theme for Browser
-- Theme for CMS
-- Tests
-- Timer
-- To-do list
-- Typing Test
-- Weather app
-- Website clone
-- Website template
+1. About one page
+1. Binary clock
+1. Blog
+1. Browser extension
+1. Calculator
+1. Calendar
+1. Characters converter
+1. Сharacter counter
+1. Clock
+1. Color picker
+1. CSS Art
+1. CSS buttons
+1. Drawing app
+1. Password generator
+1. Personal website (homepage)
+1. Photo gallery
+1. Poll
+1. Portfolio
+1. Quote of the day
+1. Random background
+1. Random color generator
+1. Random quote
+1. SaaS landing page
+1. Stopwatch
+1. Template
+1. Theme for Browser
+1. Theme for CMS
+1. Tests
+1. Timer
+1. To-do list
+1. Typing Test
+1. Weather app
+1. Website clone
+1. Website template
 
 ## 🎮 Games:
-- Guess the Number
-- Dice game
-- Jigsaw puzzles
-- Memory game
-- Quiz
-- Rock paper scissors
-- Snake
-- Tic-Tac-Toe
+1. Guess the Number
+1. Dice game
+1. Jigsaw puzzles
+1. Memory game
+1. Quiz
+1. Rock paper scissors
+1. Snake
+1. Tic-Tac-Toe
 
 ---
   
