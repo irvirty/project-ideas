@@ -1,4 +1,4 @@
-<!-- Project ideas v.1.3.0 -->
+<!-- Project ideas v.1.3.1 -->
 
 # 💡 Project ideas:
 
@@ -23,6 +23,7 @@
 - Portfolio
 - Quote of the day
 - Random background
+- Random color generator
 - Random quote
 - SaaS landing page
 - Stopwatch
