@@ -1,5 +1,7 @@
 <!-- Project ideas v.1.3.1 -->
 
+<!-- Aa Bb Cc Dd Ee Ff Gg Hh Ii Jj Kk Ll Mm Nn Oo Pp Qq Rr Ss Tt Uu Vv Ww Xx Yy Zz -->
+
 # 💡 Project ideas:
 
 
@@ -28,6 +30,7 @@
 1. SaaS landing page
 1. Stopwatch
 1. Template
+1. Terminal style website
 1. Theme for Browser
 1. Theme for CMS
 1. Tests
@@ -35,6 +38,7 @@
 1. To-do list
 1. Typing Test
 1. Weather app
+1. Web desktop (Web OS) style website
 1. Website clone
 1. Website template
 
