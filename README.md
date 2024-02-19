@@ -18,6 +18,8 @@
 1. CSS Art
 1. CSS buttons
 1. Drawing app
+1. Font
+1. Icons
 1. Password generator
 1. Personal website (homepage)
 1. Photo gallery
