@@ -65,6 +65,7 @@
 [#Project Ideas](https://github.com/topics/project-ideas?s=updated),
 [#Projects](https://github.com/topics/projects?s=updated),
 [#100DaysOfCode](https://github.com/topics/100daysofcode?s=updated),
+[#Challenge](https://github.com/topics/challenge),
 [#HTML](https://github.com/topics/HTML?s=updated),
 [#CSS](https://github.com/topics/css?s=updated),
 [#JavaScript](https://github.com/topics/javascript?s=updated),
