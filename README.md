@@ -56,6 +56,7 @@
 
 ## 🎮 Games:
 1. Guess the Number
+1. Car racing
 1. Dice game
 1. Jigsaw puzzles
 1. Memory game
