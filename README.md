@@ -7,6 +7,7 @@
 
 1. About one page
 1. AI assistant using API
+1. Authentication function
 1. Binary clock
 1. Blog
 1. Browser extension
@@ -30,6 +31,7 @@
 1. Random background
 1. Random color generator
 1. Random quote
+1. Registration form
 1. SaaS landing page
 1. Sorting items
 1. Stopwatch
