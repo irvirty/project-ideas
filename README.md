@@ -23,6 +23,7 @@
 1. Drawing app
 1. Font
 1. Icons
+2. Mini X (Twitter) (only localhost)
 1. Password generator
 1. Personal website (homepage)
 1. Photo gallery
