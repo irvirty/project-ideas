@@ -6,6 +6,7 @@
 
 
 1. About one page
+1. AI assistant using API
 1. Binary clock
 1. Blog
 1. Browser extension
