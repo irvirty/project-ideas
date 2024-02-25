@@ -30,6 +30,7 @@
 1. Random color generator
 1. Random quote
 1. SaaS landing page
+2. Sorting items
 1. Stopwatch
 1. Template
 1. Terminal style website
