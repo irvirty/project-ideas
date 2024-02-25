@@ -33,12 +33,14 @@
 1. Random color generator
 1. Random quote
 1. Registration form
+1. RSS parser
 1. SaaS landing page
 1. Sorting items
 1. Stopwatch
 1. Template
 1. Terminal style website
 1. Text To Speech (TTS)
+1. Try site builder, CMS or new tools
 1. Theme for Browser
 1. Theme for CMS
 1. Tests
@@ -48,6 +50,7 @@
 1. Weather app
 1. Web desktop (Web OS) style website
 1. Website clone
+1. Website or page with any topic
 1. Website template
 
 ## 🎮 Games:
