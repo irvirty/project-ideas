@@ -30,10 +30,11 @@
 1. Random color generator
 1. Random quote
 1. SaaS landing page
-2. Sorting items
+1. Sorting items
 1. Stopwatch
 1. Template
 1. Terminal style website
+1. Text To Speech (TTS)
 1. Theme for Browser
 1. Theme for CMS
 1. Tests
