@@ -11,6 +11,7 @@
 1. Binary clock
 1. Blog
 1. Browser extension
+1. Guest book
 1. Calculator
 1. Calendar
 1. Characters converter
