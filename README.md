@@ -40,7 +40,7 @@
 1. Tests
 1. Timer
 1. To-do list
-1. Typing Test
+1. Typing test
 1. Weather app
 1. Web desktop (Web OS) style website
 1. Website clone
