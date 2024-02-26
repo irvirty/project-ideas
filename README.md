@@ -11,12 +11,12 @@
 1. Binary clock
 1. Blog
 1. Browser extension
-1. Character counter
 1. CSS Art
 1. CSS buttons
 1. Calculator
 1. Calendar
 1. Characters converter
+1. Characters counter
 1. Clock
 1. Color picker
 1. Drawing app
