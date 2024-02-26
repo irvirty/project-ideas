@@ -11,6 +11,7 @@
 1. Binary clock
 1. Blog
 1. Browser extension
+1. Character counter
 1. CSS Art
 1. CSS buttons
 1. Calculator
@@ -52,7 +53,7 @@
 1. Website clone
 1. Website or page with any topic
 1. Website template
-1. Сharacter counter
+
 
 ## 🎮 Games:
 1. Car racing
