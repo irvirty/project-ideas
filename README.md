@@ -1,6 +1,4 @@
-<!-- Project ideas v.1.3.1 -->
-
-<!-- Aa Bb Cc Dd Ee Ff Gg Hh Ii Jj Kk Ll Mm Nn Oo Pp Qq Rr Ss Tt Uu Vv Ww Xx Yy Zz -->
+<!-- Project ideas v.1.3.2 -->
 
 # 💡 Project ideas:
 
