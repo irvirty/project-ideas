@@ -2,7 +2,6 @@
 
 # 💡 Project ideas:
 
-
 1. AI assistant using API
 1. About one page
 1. Authentication function
@@ -57,6 +56,7 @@
 
 
 ## 🎮 Games:
+
 1. Car racing
 1. Chess
 1. Dice game
