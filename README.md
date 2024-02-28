@@ -83,6 +83,7 @@
 [#100DaysOfCode](https://github.com/topics/100daysofcode?s=updated),
 [#Challenge](https://github.com/topics/challenge?s=updated),
 [#Web Dev](https://github.com/topics/webdev?s=updated),
+[#Dev](https://github.com/topics/dev?s=updated),
 [#Programming](https://github.com/topics/programming?s=updated),
 [#Coding](https://github.com/topics/coding?s=updated),
 [#HTML](https://github.com/topics/HTML?s=updated),
