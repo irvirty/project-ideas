@@ -15,7 +15,7 @@
 1. Captcha *, **, ***
 1. Characters converter *, **
 1. Characters counter *
-1. Clock *, **
+1. Clock **
 1. Color picker **
 1. Currency converter *, ** <!-- https://github.com/anishaswain/Simple-JS-Projects#-->
 1. Drawing app **, ***
