@@ -17,6 +17,7 @@
 1. Characters counter
 1. Clock
 1. Color picker
+1. Currency converter <!-- https://github.com/anishaswain/Simple-JS-Projects#-->
 1. Drawing app
 1. Font
 1. Guest book
