@@ -58,6 +58,7 @@
 1. Dice game
 1. Guess the Number
 1. Jigsaw puzzles
+1. Maze
 1. Memory game
 1. Quiz
 1. Rock paper scissors
