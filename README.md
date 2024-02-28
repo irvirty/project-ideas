@@ -2,73 +2,73 @@
 
 # 💡 Project ideas:
 
-1. AI assistant using API
-1. About one page
-1. Authentication function
-1. Binary clock
-1. Blog
-1. Browser extension
-1. CSS Art
-1. CSS buttons
-1. Calculator
-1. Calendar
-1. Captcha
-1. Characters converter
-1. Characters counter
-1. Clock
-1. Color picker
-1. Currency converter <!-- https://github.com/anishaswain/Simple-JS-Projects#-->
-1. Drawing app
-1. Font
-1. Guest book
-1. Icons
-1. Mini X (Twitter) (only localhost)
-1. Password generator
-1. Personal website (homepage)
-1. Photo gallery
-1. Poll
-1. Portfolio
-1. Quote of the day
-1. RSS parser
-1. Random background
-1. Random color generator
-1. Random quote
-1. Registration form
-1. Responsive navigation menu <!--https://github.com/anishaswain/Simple-JS-Projects#-->
-1. SaaS landing page
-1. Sorting items
-1. Stopwatch
-1. Template
-1. Terminal style website
-1. Tests
-1. Text To Speech (TTS)
-1. Theme for Browser
-1. Theme for CMS
-1. Timer
-1. To-do list
-1. Try site builder, CMS or new tools
-1. Typing test
-1. Weather app
-1. Web desktop (Web OS) style website
-1. Website clone
-1. Website or page with any topic
-1. Website template
-1. Website with a collection of something (music, movies, bookmarks, buttons, images etc)
+1. AI assistant using API (medium)
+1. About one page (easy, medium)
+1. Authentication function (medium, hard)
+1. Binary clock (hard)
+1. Blog (hard)
+1. Browser extension (medium, hard)
+1. CSS Art (easy, medium)
+1. CSS buttons (easy, emdium)
+1. Calculator (medium, hard)
+1. Calendar (medium, hard)
+1. Captcha (easy, medium, hard)
+1. Characters converter (easy, medium)
+1. Characters counter (easy)
+1. Clock (easy, medium)
+1. Color picker (easy, medium)
+1. Currency converter (easy, medium) <!-- https://github.com/anishaswain/Simple-JS-Projects#-->
+1. Drawing app (medium, hard)
+1. Font (medium, hard)
+1. Guest book (medium, hard)
+1. Icons (medium, hard)
+1. Mini X (Twitter) (only localhost) (hard)
+1. Password generator (easy, medium)
+1. Personal website (homepage) (easy, medium)
+1. Photo gallery  (medium, hard)
+1. Poll (medium, hard)
+1. Portfolio (easy, medium, hard)
+1. Quote of the day (easy, medium)
+1. RSS parser (medium, hard)
+1. Random background (easy, medium)
+1. Random color generator (easy, medium)
+1. Random quote (easy, medium)
+1. Registration form (medium, hard)
+1. Responsive navigation menu (medium, hard)<!--https://github.com/anishaswain/Simple-JS-Projects#-->
+1. SaaS landing page (easy, medium, hard)
+1. Sorting items (easy, medium)
+1. Stopwatch (medium, hard)
+1. Template (medium, hard)
+1. Terminal style website (medium, hard)
+1. Tests (medium, hard)
+1. Text To Speech (TTS) (medium)
+1. Theme for Browser (easy, medium)
+1. Theme for CMS (medium, hard)
+1. Timer (medium)
+1. To-do list (medium, hard)
+1. Try site builder, CMS or new tools (easy, medium)
+1. Typing test (medium, hard)
+1. Weather app (medium)
+1. Web desktop (Web OS) style website (hard)
+1. Website clone (medium, hard)
+1. Website or page with any topic (easy, medium, hard)
+1. Website template (medium, hard)
+1. Website with a collection of something (music, movies, bookmarks, buttons, images etc) medium, hard)
 
 
 ## 🎮 Games:
 
-1. Car racing
-1. Chess
-1. Dice game
-1. Guess the Number
-1. Jigsaw puzzles
-1. Maze
-1. Memory game
-1. Quiz
-1. Rock paper scissors
-1. Snake
-1. Tic-Tac-Toe
+1. Car racing (hard)
+1. Chess (hard)
+1. Dice game (medium, hard)
+1. Guess the Number (easy, medium)
+1. Jigsaw puzzles (unknown, hard)
+1. Maze (unknown, hard)
+1. Memory game (medium, hard)
+1. Quiz (medium, hard)
+1. Rock paper scissors (medium, hard)
+1. Snake (hard)
+1. Tic-Tac-Toe (medium, hard)
 
   
 ---
