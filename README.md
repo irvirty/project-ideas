@@ -9,7 +9,7 @@
 1. Blog ***
 1. Browser extension **, ***
 1. CSS Art **, ***
-1. CSS buttons *, **
+1. CSS buttons **
 1. Calculator **, ***
 1. Calendar **, ***
 1. Captcha *, **, ***
