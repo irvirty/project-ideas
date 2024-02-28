@@ -80,6 +80,7 @@
   
 ### 🏷️ Speed dial (GitHub explore):  
 [#Project Ideas](https://github.com/topics/project-ideas?s=updated),
+[Pproject Ideas](https://github.com/search?q=project+ideas),
 [#Projects](https://github.com/topics/projects?s=updated),
 [#Ideas](https://github.com/topics/ideas?s=updated),
 [#100DaysOfCode](https://github.com/topics/100daysofcode?s=updated),
@@ -92,5 +93,7 @@
 [#CSS](https://github.com/topics/css?s=updated),
 [#PHP](https://github.com/topics/php?s=updated),
 [#JavaScript](https://github.com/topics/javascript?s=updated),
+
+
 
 
