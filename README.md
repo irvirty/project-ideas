@@ -13,7 +13,7 @@
 1. Calculator **, ***
 1. Calendar **, ***
 1. Captcha *, **, ***
-1. Characters converter *, **
+1. Characters converter **
 1. Characters counter *
 1. Clock **
 1. Color picker **
