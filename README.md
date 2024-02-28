@@ -53,7 +53,7 @@
 1. Website clone
 1. Website or page with any topic
 1. Website template
-1. Website with a collection of something (music, movies or bookmarks)
+1. Website with a collection of something (music, movies, bookmarks, buttons, images etc)
 
 
 ## 🎮 Games:
