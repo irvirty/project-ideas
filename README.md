@@ -5,6 +5,7 @@
 1. AI assistant using API **
 1. About one page *, **
 1. Authentication function **, ***
+1. Average number *, **
 1. Binary clock ***
 1. Blog ***
 1. Browser extension **, ***
