@@ -66,7 +66,7 @@
 1. Maze (unknown, hard)
 1. Memory game (medium, hard)
 1. Quiz (medium, hard)
-1. Rock paper scissors (medium, hard)
+1. Rock paper scissors (easy, medium)
 1. Snake (hard)
 1. Tic-Tac-Toe (medium, hard)
 
