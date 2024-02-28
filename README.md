@@ -57,6 +57,7 @@
 
 ## 🎮 Games:
 1. Car racing
+1. Chess
 1. Dice game
 1. Guess the Number
 1. Jigsaw puzzles
