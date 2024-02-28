@@ -19,7 +19,7 @@
 1. Color picker **
 1. Currency converter ** <!-- https://github.com/anishaswain/Simple-JS-Projects#-->
 1. Drawing app **, ***
-1. Font **, ***
+1. Font ***
 1. Guest book **, ***
 1. Icons **, ***
 1. Mini X (Twitter) (only localhost) ***
