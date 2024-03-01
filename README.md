@@ -39,6 +39,8 @@
 1. Registration form ** ***
 1. Responsive navigation menu ** ***<!--https://github.com/anishaswain/Simple-JS-Projects#-->
 1. SaaS landing page * ** ***
+1. Search on the site ** ***
+1. Sitemap ** ***
 1. Sorting items * **
 1. Stopwatch ** ***
 1. Template ** ***
