@@ -2,15 +2,14 @@
 
 # 💡 Project ideas:
 
-1. AI assistant using API **
+
 1. About one page * **
+1. AI assistant using API **
 1. Authentication function ** ***
 1. Average number * **
 1. Binary clock ***
 1. Blog ***
 1. Browser extension ** ***
-1. CSS Art ** ***
-1. CSS buttons **
 1. Calculator ** ***
 1. Calendar ** ***
 1. Captcha * ** ***
@@ -19,6 +18,8 @@
 1. Clock **
 1. Color picker ** ***
 1. Cookie consent functionality ** ***
+1. CSS Art ** ***
+1. CSS buttons **
 1. Currency converter ** <!-- https://github.com/anishaswain/Simple-JS-Projects#-->
 1. Drawing app ** ***
 1. Drop-down menu **
@@ -32,12 +33,12 @@
 1. Poll ** ***
 1. Portfolio * ** ***
 1. Quote of the day * **
-1. RSS parser ** ***
 1. Random background * **
 1. Random color generator * **
 1. Random quote * **
 1. Registration form ** ***
 1. Responsive navigation menu ** ***<!--https://github.com/anishaswain/Simple-JS-Projects#-->
+1. RSS parser ** ***
 1. SaaS landing page * ** ***
 1. Search on the site ** ***
 1. Sitemap ** ***
