@@ -16,6 +16,7 @@
 1. Characters converter **
 1. Characters counter *
 1. Clock **
+1. Color palette * **
 1. Color picker ** ***
 1. Cookie consent functionality ** ***
 1. CSS Art ** ***
