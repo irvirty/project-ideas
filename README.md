@@ -54,6 +54,8 @@
 1. Theme for CMS ** ***
 1. Timer **
 1. To-do list ** ***
+1. Translate the article or translation in a project (contribution) ** ***
+1. Translator *** ****
 1. Try site builder, CMS or new tools * **
 1. Typing test ** ***
 1. Weather app **
