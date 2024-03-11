@@ -29,6 +29,7 @@
 1. Font ***
 1. Guest book ** ***
 1. Icons ** ***
+1. Keep (localhost-only) - a place to store links, quotes, notes, or posts
 1. Mini X (Twitter) (only localhost) ***
 1. Password generator * **
 1. Personal website (homepage) * **
