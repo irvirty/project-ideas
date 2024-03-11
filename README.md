@@ -1,4 +1,4 @@
-<!-- Project ideas v.1.3.2 -->
+<!-- Project ideas v.1.3.3 -->
 
 # 💡 Project ideas:
 
@@ -9,6 +9,7 @@
 1. Average number * **
 1. Binary clock ***
 1. Blog ***
+1. Book ***
 1. Browser extension ** ***
 1. Calculator ** ***
 1. Calendar ** ***
