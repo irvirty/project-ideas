@@ -23,6 +23,7 @@
 1. CSS Art ** ***
 1. CSS buttons **
 1. Currency converter ** <!-- https://github.com/anishaswain/Simple-JS-Projects#-->
+1. Displaying some structured data ** ***
 1. Drawing app ** ***
 1. Drop-down menu **
 1. Font ***
