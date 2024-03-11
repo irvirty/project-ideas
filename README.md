@@ -81,6 +81,7 @@
 1. Quiz ** ***
 1. Rock paper scissors **
 1. Snake ***
+1. Spin Wheel **
 1. Tic-Tac-Toe ** ***
 
 ---
