@@ -32,6 +32,7 @@
 1. Icons ** ***
 1. Keep (localhost-only) - a place to store links, quotes, notes, or posts ***
 1. Mini X (Twitter) (only localhost) ***
+1. New Tab Page (home page for new tab) **
 1. Password generator * **
 1. Personal website (homepage) * **
 1. Photo gallery  ** ***
