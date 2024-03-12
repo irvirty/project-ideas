@@ -87,7 +87,7 @@
 
 ---
 
-  `* - easy, ** - medium,  *** - hard`
+  `* - easy, ** - medium,  *** - hard (the difficulty level is only approximate)`
   
 ---
   
