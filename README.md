@@ -72,6 +72,7 @@
 
 ## 🎮 Games:
 
+1. Blackjack
 1. Car racing ***
 1. Chess ***
 1. Dice game **
