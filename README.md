@@ -33,7 +33,6 @@
 1. Icons ** ***
 1. Keep (localhost-only) - a place to store links, quotes, notes, or posts ***
 1. Navigation menu ** ***
-1. New Tab Page (home page for new tab) **
 1. Password generator * **
 1. Personal website (homepage) * **
 1. Photo gallery  ** ***
@@ -49,6 +48,7 @@
 1. Search on the site ** ***
 1. Sitemap ** ***
 1. Sorting items * **
+1. Start page (home page or page for new tab) **
 1. Stopwatch ** ***
 1. Table with sorting **
 1. Template ** ***
