@@ -103,7 +103,7 @@
 
 [#inspiration](https://github.com/topics/inspiration),
 [#Project Ideas](https://github.com/topics/project-ideas),
-[q: Project Ideas](https://github.com/search?q=project+ideas),
+[q= Project Ideas](https://github.com/search?q=project+ideas),
 [#Projects](https://github.com/topics/projects),
 [#Project](https://github.com/topics/project),
 [#Ideas](https://github.com/topics/ideas),
