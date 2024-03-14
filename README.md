@@ -29,7 +29,7 @@
 1. Drop-down menu **
 1. Font ***
 1. Guest book ** ***
-1. Hello World!
+1. Hello World! *
 1. Icons ** ***
 1. Keep (localhost-only) - a place to store links, quotes, notes, or posts ***
 1. Mini X (Twitter) (only localhost) ***
