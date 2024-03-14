@@ -48,7 +48,7 @@
 1. Search on the site ** ***
 1. Sitemap ** ***
 1. Sorting items * **
-1. Start page (home page or page for new tab) **
+1. Start page (home page or page for new tab) ** ***
 1. Stopwatch ** ***
 1. Table with sorting **
 1. Template ** ***
