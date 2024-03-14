@@ -107,7 +107,6 @@
 [#Projects](https://github.com/topics/projects),
 [#Project](https://github.com/topics/project),
 [#Ideas](https://github.com/topics/ideas),
-[#Idea](https://github.com/topics/idea),
 
 
 
