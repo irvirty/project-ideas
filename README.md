@@ -32,6 +32,7 @@
 1. Icons ** ***
 1. Keep (localhost-only) - a place to store links, quotes, notes, or posts ***
 1. Mini X (Twitter) (only localhost) ***
+1. Navigation menu ** ***
 1. New Tab Page (home page for new tab) **
 1. Password generator * **
 1. Personal website (homepage) * **
@@ -43,7 +44,6 @@
 1. Random color generator * **
 1. Random quote * **
 1. Registration form ** ***
-1. Responsive navigation menu ** ***<!--https://github.com/anishaswain/Simple-JS-Projects#-->
 1. RSS parser ** ***
 1. SaaS landing page * ** ***
 1. Search on the site ** ***
@@ -98,19 +98,19 @@
   
 ---
   
-### 🏷️ Speed dial (GitHub explore):  
-[#Project Ideas](https://github.com/topics/project-ideas?s=updated),
+### 🏷️ Speed dial (GitHub explore, inspiration):  
+[#Project Ideas](https://github.com/topics/project-ideas),
 [Pproject Ideas](https://github.com/search?q=project+ideas),
-[#Projects](https://github.com/topics/projects?s=updated),
-[#Ideas](https://github.com/topics/ideas?s=updated),
-[#100DaysOfCode](https://github.com/topics/100daysofcode?s=updated),
-[#Challenge](https://github.com/topics/challenge?s=updated),
-[#Web Dev](https://github.com/topics/webdev?s=updated),
-[#Dev](https://github.com/topics/dev?s=updated),
-[#Programming](https://github.com/topics/programming?s=updated),
-[#Coding](https://github.com/topics/coding?s=updated),
-[#HTML](https://github.com/topics/HTML?s=updated),
-[#CSS](https://github.com/topics/css?s=updated),
+[#Projects](https://github.com/topics/projects),
+[#Ideas](https://github.com/topics/ideas),
+[#100DaysOfCode](https://github.com/topics/100daysofcode),
+[#Challenge](https://github.com/topics/challenge),
+[#Web Dev](https://github.com/topics/webdev),
+[#Dev](https://github.com/topics/dev),
+[#Programming](https://github.com/topics/programming),
+[#Coding](https://github.com/topics/coding),
+[#HTML](https://github.com/topics/HTML),
+[#CSS](https://github.com/topics/css),
 [#PHP](https://github.com/topics/php?s=updated),
 [#JavaScript](https://github.com/topics/javascript?s=updated),
 
