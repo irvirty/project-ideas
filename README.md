@@ -1,6 +1,6 @@
 <!-- Project ideas v.1.3.4 -->
 
-# 💡 Project ideas, inspiration:
+# 💡 Project ideas, inspiration, project after Hello World!:
 
 
 1. About me page * **
