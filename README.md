@@ -1,4 +1,4 @@
-<!-- Project ideas v.1.3.3 -->
+<!-- Project ideas v.1.3.4 -->
 
 # 💡 Project ideas, inspiration:
 
@@ -32,7 +32,6 @@
 1. Hello World! *
 1. Icons ** ***
 1. Keep (localhost-only) - a place to store links, quotes, notes, or posts ***
-1. Mini X (Twitter) (only localhost) ***
 1. Navigation menu ** ***
 1. New Tab Page (home page for new tab) **
 1. Password generator * **
@@ -51,6 +50,7 @@
 1. Sitemap ** ***
 1. Sorting items * **
 1. Stopwatch ** ***
+1. Table with sorting **
 1. Template ** ***
 1. Terminal style website ** ***
 1. Tests ** ***
@@ -69,7 +69,7 @@
 1. Website or page with any topic * ** ***
 1. Website template ** ***
 1. Website with a collection of something (music, movies, bookmarks, buttons, images etc) * ** ***
-
+1. X (Twitter) (only localhost) ***
 
 ## 🎮 Games:
 
