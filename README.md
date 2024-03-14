@@ -99,21 +99,14 @@
   
 ---
   
-### 🏷️ Speed dial (GitHub explore, inspiration):  
+### 🏷️ Tags:  
 [#Project Ideas](https://github.com/topics/project-ideas),
 [Pproject Ideas](https://github.com/search?q=project+ideas),
 [#Projects](https://github.com/topics/projects),
+[#Project](https://github.com/topics/project),
 [#Ideas](https://github.com/topics/ideas),
-[#100DaysOfCode](https://github.com/topics/100daysofcode),
-[#Challenge](https://github.com/topics/challenge),
-[#Web Dev](https://github.com/topics/webdev),
-[#Dev](https://github.com/topics/dev),
-[#Programming](https://github.com/topics/programming),
-[#Coding](https://github.com/topics/coding),
-[#HTML](https://github.com/topics/HTML),
-[#CSS](https://github.com/topics/css),
-[#PHP](https://github.com/topics/php?s=updated),
-[#JavaScript](https://github.com/topics/javascript?s=updated),
+[#Idea](https://github.com/topics/idea),
+
 
 
 
