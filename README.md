@@ -100,6 +100,8 @@
 ---
   
 ### 🏷️ Tags:  
+
+[#inspiration](https://github.com/topics/inspiration),
 [#Project Ideas](https://github.com/topics/project-ideas),
 [Pproject Ideas](https://github.com/search?q=project+ideas),
 [#Projects](https://github.com/topics/projects),
