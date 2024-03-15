@@ -1,6 +1,6 @@
 <!-- Project ideas v.1.3.4 -->
 
-# 💡 Project ideas, inspiration, project after Hello World!:
+# 💡 Project ideas, inspiration:
 
 
 1. About me page * **
@@ -24,6 +24,7 @@
 1. CSS Art ** ***
 1. CSS buttons **
 1. Currency converter ** <!-- https://github.com/anishaswain/Simple-JS-Projects#-->
+1. Data visualization
 1. Displaying some structured data ** ***
 1. Drawing app ** ***
 1. Drop-down menu **
