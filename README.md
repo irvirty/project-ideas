@@ -1,4 +1,4 @@
-<!-- Project ideas v.1.3.5 -->
+<!-- Project ideas v.1.3.6 -->
 
 # 💡 Project ideas, inspiration:
 
@@ -21,6 +21,7 @@
 1. Color palette * **
 1. Color picker ** ***
 1. Cookie consent functionality ** ***
+1. Countdown timer **
 1. CSS Art ** ***
 1. CSS buttons **
 1. Currency converter ** <!-- https://github.com/anishaswain/Simple-JS-Projects#-->
