@@ -91,7 +91,7 @@
 
 ---
 
-  `*` - easy, `**` - medium,  `***` - hard  / the difficulty level is only approximate
+  `*` - Easy, `**` - Medium,  `***` - Hard  / (the difficulty level is only approximate)
   
 ---
   
