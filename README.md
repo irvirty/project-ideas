@@ -1,4 +1,4 @@
-<!-- Project ideas v.1.3.4 -->
+<!-- Project ideas v.1.3.5 -->
 
 # 💡 Project ideas, inspiration:
 
@@ -39,6 +39,7 @@
 1. Photo gallery  ** ***
 1. Poll ** ***
 1. Portfolio * ** ***
+1. PWA (Progressive Web App) ***
 1. Quote of the day * **
 1. Random background * **
 1. Random color generator * **
