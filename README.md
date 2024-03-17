@@ -74,7 +74,7 @@
 1. Website with a collection of something (music, movies, bookmarks, buttons, images etc) * ** ***
 1. X (Twitter) (only localhost) ***
 
-## 🎮 Games:
+## Games:
 
 1. Blackjack
 1. Car racing ***
