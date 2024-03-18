@@ -1,4 +1,4 @@
-<!-- Project ideas v.1.3.6 -->
+<!-- Project ideas v.1.3.7 -->
 
 # Project ideas, inspiration:
 
@@ -66,6 +66,7 @@
 1. Translator *** ****
 1. Try site builder, CMS or new tools * **
 1. Typing test ** ***
+1. UI elements ** ***
 1. Weather app **
 1. Web desktop (Web OS) style website ***
 1. Website clone ** ***
