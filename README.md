@@ -40,6 +40,7 @@
 1. Photo gallery  ** ***
 1. Poll ** ***
 1. Portfolio * ** ***
+<!-- 1. Project manager app (inspired by GitHub project)-->
 1. PWA (Progressive Web App) ***
 1. Quote of the day * **
 1. Random background * **
