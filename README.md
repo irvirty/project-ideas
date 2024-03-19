@@ -1,4 +1,4 @@
-<!-- Project ideas v.1.3.7 -->
+<!-- Project ideas v.1.3.8 -->
 
 # Project ideas, inspiration:
 
@@ -49,6 +49,7 @@
 1. RSS parser ** ***
 1. SaaS landing page * ** ***
 1. Search on the site ** ***
+1. Shape generator ***
 1. Sitemap ** ***
 1. Sorting items * **
 1. Start page (home page or page for new tab) ** ***
