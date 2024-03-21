@@ -1,7 +1,6 @@
-<!-- Project ideas v.1.3.9 -->
+<!-- Project ideas v.1.3.10 -->
 
 # Project ideas, inspiration:
-
 
 1. About me page * **
 1. AI assistant using API **
@@ -35,6 +34,7 @@
 1. Icons ** ***
 1. Keep (localhost-only) - a place to store links, quotes, notes, or posts ***
 1. Navigation menu ** ***
+1. Notes app ***
 1. Password generator * **
 1. Personal website (homepage) * **
 1. Photo gallery  ** ***
