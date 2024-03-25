@@ -88,7 +88,7 @@
 1. Jigsaw puzzles
 1. Maze
 1. Memory game ** ***
-1. Obstacle race <!-- like Chrome Dino -->  
+1. Obstacle race (like Chrome Dino) 
 1. Ping Pong
 1. Quiz ** ***
 1. Rock paper scissors **
