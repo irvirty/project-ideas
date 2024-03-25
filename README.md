@@ -88,6 +88,7 @@
 1. Jigsaw puzzles
 1. Maze
 1. Memory game ** ***
+1. Ping Pong
 1. Quiz ** ***
 1. Rock paper scissors **
 1. Snake ***
