@@ -1,4 +1,4 @@
-<!-- Project ideas v.1.3.10 -->
+<!-- Project ideas v.1.3.11 -->
 
 # Project ideas, inspiration:
 
@@ -38,6 +38,7 @@
 1. Password generator * **
 1. Personal website (homepage) * **
 1. Photo gallery  ** ***
+1. Planner app ***
 1. Poll ** ***
 1. Portfolio * ** ***
 1. Project manager app (inspired by GitHub project) ***
