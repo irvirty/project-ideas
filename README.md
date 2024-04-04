@@ -54,7 +54,7 @@
 1. Shape generator
 1. Sitemap
 1. Sorting items
-1. Speech to text (TTS)
+1. Speech to text (STT)
 1. Start page (home page or page for new tab)
 1. Stopwatch
 1. Table with sorting
