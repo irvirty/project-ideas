@@ -32,7 +32,8 @@
 1. Guest book
 1. Hello World!
 1. Icons
-1. Keep (localhost-only) - a place to store links, quotes, notes, or posts
+1. Keep (localhost only) - a place to store links, quotes, notes, or posts
+1. Language learning app
 1. Navigation menu
 1. Notes app
 1. Password generator
