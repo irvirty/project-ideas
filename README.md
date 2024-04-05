@@ -11,7 +11,7 @@
 1. Blog
 1. Book
 1. Browser extension
-1. Calculator
+1. Calculator (as an experiment)
 1. Calendar
 1. Captcha
 1. Characters converter
