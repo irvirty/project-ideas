@@ -32,7 +32,7 @@
 1. Guest book
 1. Hello World!
 1. Icons
-1. Keep (localhost only) - a place to store links, quotes, notes, or posts
+1. Keep (for yourself on localhost) - a place to store links, quotes, notes, or posts
 1. Language learning app
 1. Navigation menu
 1. Notes app
@@ -78,7 +78,7 @@
 1. Website or page with any topic
 1. Website template
 1. Website with a collection of something (music, movies, bookmarks, buttons, images etc)
-1. X (Twitter) (only localhost)
+1. X (Twitter) (for yourself on localhost)
 
 ## Games:
 
