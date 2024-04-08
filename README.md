@@ -108,9 +108,9 @@
   
 ### Tags:  
 
-[#inspiration](https://github.com/topics/inspiration),
-[#Project Ideas](https://github.com/topics/project-ideas),
-[q= Project Ideas](https://github.com/search?q=project+ideas),
+[#Inspiration](https://github.com/topics/inspiration),
+[#Project ideas](https://github.com/topics/project-ideas),
+[q=Project ideas](https://github.com/search?q=project+ideas),
 [#Projects](https://github.com/topics/projects),
 [#Project](https://github.com/topics/project),
 [#Ideas](https://github.com/topics/ideas),
