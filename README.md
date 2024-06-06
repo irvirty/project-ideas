@@ -24,7 +24,7 @@
 1. Countdown timer
 1. CSS Art
 1. CSS buttons
-1. Currency converter ** <!-- https://github.com/anishaswain/Simple-JS-Projects# -->
+1. Currency converter <!-- https://github.com/anishaswain/Simple-JS-Projects# -->
 1. Data visualization
 1. Displaying some structured data
 1. Drawing app
