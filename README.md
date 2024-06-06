@@ -1,4 +1,4 @@
-<!-- Project ideas v.1.3.12 -->
+<!-- Project ideas v.1.3.14 -->
 
 # Project ideas, inspiration:
 
@@ -19,6 +19,7 @@
 1. Clock
 1. Color palette
 1. Color picker
+1. Coloring book
 1. Cookie consent functionality
 1. Countdown timer
 1. CSS Art
