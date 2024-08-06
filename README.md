@@ -83,10 +83,12 @@
 
 ## Games:
 
+
 1. Blackjack
 1. Car racing
 1. Chess
 1. Dice game
+1. Flip a coin <!-- (inspired by Google: flip a coin# -->
 1. Guess the Number
 1. Jigsaw puzzles
 1. Maze
