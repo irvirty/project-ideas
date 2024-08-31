@@ -5,7 +5,6 @@
 1. About me page
 1. AI assistant using API
 1. Article. Write an article
-1. Authentication function
 1. Average number
 1. Binary clock
 1. Blog
@@ -35,6 +34,7 @@
 1. Icons
 1. Keep (for yourself on localhost) - a place to store links, quotes, notes, or posts
 1. Language learning app
+1. Login system (authentication system)
 1. Navigation menu
 1. Notes app
 1. Password generator
