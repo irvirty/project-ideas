@@ -13,6 +13,7 @@
 1. Calculator (as an experiment)
 1. Calendar
 1. Captcha
+1. Challenge (join the challenge)
 1. Characters converter
 1. Characters counter
 1. Clock
