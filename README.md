@@ -13,7 +13,7 @@
 1. Calculator (as an experiment)
 1. Calendar
 1. Captcha
-1. Challenge (join the challenge)
+1. Challenge (#100DaysOfCode)
 1. Characters converter
 1. Characters counter
 1. Clock
@@ -115,11 +115,14 @@
 
 [#Inspiration](https://github.com/topics/inspiration),
 [#Project ideas](https://github.com/topics/project-ideas),
-[q=Project ideas](https://github.com/search?q=project+ideas),
 [#Projects](https://github.com/topics/projects),
+[#Project](https://github.com/topics/project),
 [#Project](https://github.com/topics/project),
 [#Ideas](https://github.com/topics/ideas),
 [#App ideas](https://github.com/topics/app-ideas),
+[#100DaysOfCode](https://github.com/topics/100DaysOfCode),  
+
+[q=Project ideas](https://github.com/search?q=project+ideas),
 
 
 
