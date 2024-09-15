@@ -13,7 +13,7 @@
 1. Calculator (as an experiment)
 1. Calendar
 1. Captcha
-1. Challenge (#100DaysOfCode)
+1. Challenge (100DaysOfCode, CodePen Challenge, etc)
 1. Characters converter
 1. Characters counter
 1. Clock
