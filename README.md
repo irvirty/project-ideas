@@ -35,6 +35,7 @@
 1. Icons
 1. Keep (for yourself on localhost) - a place to store links, quotes, notes, or posts
 1. Language learning app
+1. LeetCode (practice for coding)
 1. Login system (authentication system)
 1. Navigation menu
 1. Notes app
