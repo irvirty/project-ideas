@@ -37,6 +37,7 @@
 1. Language learning app
 1. LeetCode (coding practice)
 1. Login system (authentication system)
+1. Manual or documentation
 1. Navigation menu
 1. Notes app
 1. Password generator
