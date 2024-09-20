@@ -1,4 +1,4 @@
-<!-- Project ideas v.1.3.14 -->
+<!-- Project ideas v.1.3.15 -->
 
 # Project ideas, inspiration:
 
@@ -79,6 +79,7 @@
 1. Weather app
 1. Web desktop (Web OS) style website
 1. Website clone
+1. Website dark mode or changing themes
 1. Website or page with any topic
 1. Website template
 1. Website with a collection of something (music, movies, bookmarks, buttons, images etc)
