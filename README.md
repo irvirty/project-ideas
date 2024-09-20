@@ -74,7 +74,6 @@
 1. Translate the article or translation in a project (contribution)
 1. Translator (text translation)
 1. Try site builder, CMS or new tools
-1. Typing test
 1. UI elements
 1. Weather app
 1. Web desktop (Web OS) style website
@@ -106,6 +105,7 @@
 1. Spin Wheel
 1. Text-based adventure game
 1. Tic-Tac-Toe
+1. Typing test (WPM)
    
   
 ---
