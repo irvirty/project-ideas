@@ -101,6 +101,7 @@
 1. Ping Pong
 1. Quiz
 1. Rock paper scissors
+1. Simulation games: fishing, farm, etc. <!--(inspired: https://play.google.com/store/games#-->
 1. Snake
 1. Spin Wheel
 1. Text-based adventure game
