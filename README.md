@@ -82,6 +82,7 @@
 1. Website or page with any topic
 1. Website template
 1. Website with a collection of something (music, movies, bookmarks, buttons, images etc)
+1. Writing reviews of books, films, or other
 1. X (Twitter) (for yourself on localhost)
 
 ## Games:
