@@ -116,7 +116,7 @@
   
 ---
   
-### GitHub Explore tags:  
+### 🏷️ GitHub Explore tags:  
 
 [#Inspiration](https://github.com/topics/inspiration),
 [#Project ideas](https://github.com/topics/project-ideas),
