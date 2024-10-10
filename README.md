@@ -116,18 +116,16 @@
   
 ---
   
-### 🏷️ GitHub Explore tags:  
+### 🏷️ GitHub Explore, topics:  
 
-[#Inspiration](https://github.com/topics/inspiration),
-[#Project ideas](https://github.com/topics/project-ideas),
-[#Projects](https://github.com/topics/projects),
-[#Project](https://github.com/topics/project),
-[#Project](https://github.com/topics/project),
-[#Ideas](https://github.com/topics/ideas),
-[#App ideas](https://github.com/topics/app-ideas),
-[#100DaysOfCode](https://github.com/topics/100DaysOfCode),  
-
-[q=Project ideas](https://github.com/search?q=project+ideas),
+[Inspiration](https://github.com/topics/inspiration),
+[Project ideas](https://github.com/topics/project-ideas),
+[Projects](https://github.com/topics/projects),
+[Project](https://github.com/topics/project),
+[Project](https://github.com/topics/project),
+[Ideas](https://github.com/topics/ideas),
+[App ideas](https://github.com/topics/app-ideas),
+[100DaysOfCode](https://github.com/topics/100DaysOfCode)
 
 
 
