@@ -26,6 +26,7 @@
 1. CSS buttons.
 1. Currency converter. <!-- https://github.com/anishaswain/Simple-JS-Projects# -->
 1. Data visualization.
+1. Digital pet or pet simulator (like Tamagotchi).
 1. Displaying some structured data.
 1. Drawing app.
 1. Drop-down menu.
@@ -80,6 +81,7 @@
 1. Web desktop (Web OS) style website.
 1. Website clone.
 1. Website dark mode or changing themes. <!--Inspired: https://www.udemy.com/course/30-html-css-javascript-projects-in-30-days-for-beginners/#-->
+1. Website mascot or website assistant (like Clippy).
 1. Website or page with any topic.
 1. Website template.
 1. Website with a collection of something (music, movies, bookmarks, buttons, images etc).
