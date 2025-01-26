@@ -26,7 +26,6 @@
 1. CSS buttons.
 1. Currency converter. <!-- https://github.com/anishaswain/Simple-JS-Projects# -->
 1. Data visualization.
-1. Digital pet or pet simulator (like Tamagotchi).
 1. Displaying some structured data.
 1. Drawing app.
 1. Drop-down menu.
@@ -90,11 +89,11 @@
 
 ## Games:
 
-
 1. Blackjack.
 1. Car racing.
 1. Chess.
 1. Dice game.
+1. Digital pet or pet simulator (like Tamagotchi).
 1. Flip a coin. <!-- (inspired by Google: flip a coin# -->
 1. Guess the Number.
 1. Jigsaw puzzles.
